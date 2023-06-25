@@ -1,4 +1,4 @@
-Technically a Python dev but who knows at this point.
+Technically a Python dev but who knows at this point. \n
 Will Probably never finish personal [website](https://t306.dev)...
 
 ### ¯|_(ツ)_/¯
